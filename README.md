@@ -13,7 +13,7 @@ title:
 
 ## app1
 Provides access to pages based on 3 numbers:
-- rātra (1-3), adhyāya, śloka
+- rātra (1-5), adhyāya, śloka
 
 Example: https://sanskrit-lexicon-scans.github.io/katyasr/app1/?1,3,1
 
